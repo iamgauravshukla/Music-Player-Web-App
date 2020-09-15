@@ -23,7 +23,7 @@ const songs = [
 	name : 'jbn.mp3',
 	title : 'Jaan Ban Gaye',
 	artist : 'Vishal Mishra',
-	image: 'img/jbn.jpg',
+	image: 'img/vis.jpg',
 },
 {
 	name : 'dch.mp3',
