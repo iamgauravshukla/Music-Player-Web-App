@@ -89,7 +89,6 @@ const playMusic = () =>{
 	isPlaying = true;
 	music.play();
 	play.classList.replace('fa-play','fa-pause'); //to replace and repeat any class
-	img.classList.add('rotation');
 	disco();
 };
 
@@ -98,7 +97,7 @@ const pauseMusic = () =>{
 	isPlaying = false;
 	music.pause();
 	play.classList.replace('fa-pause','fa-play'); //to replace and repeat any class
-	img.classList.remove('rotation');
+	
 };
 
 //play/pause button functionality
